@@ -24,7 +24,7 @@ body{
 a {
   text-decoration: none;
   color: #f9faf8;
-  font-size: 14px;
+  font-size: 16px;
   
 }
 
@@ -38,6 +38,7 @@ a {
   align-items: center;
   gap: 16px;
   font-weight: 900;
+  font-size: 24px;
 }
 
 .hero{
